@@ -1,0 +1,4 @@
+# Significant Battles
+
+### The Battle that needs a name
+This battle marks the turning point in the War of Fallen Glory. The last bastion against enemy forces in Earth Province, the Forest Sanctuary, was under siege. The men inside were running out of resources and the enemy was attacking relentlessly. It was during this siege when the Great Alliance was signed between the four races of the world. When the men in the bastion were starting to lose hope, as the siege had no end in sight, a large army of dwarves, men, and merfolk led by some of the most elite elves attacked the enemy from every side. The men inside then rallied and attacked, and the enemy was completely decimated. This marked the first major victory against Dolmordai's army.
