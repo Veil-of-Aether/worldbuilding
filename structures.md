@@ -25,3 +25,6 @@ The Wind Temple is on a floating island in the far north of Wind Province. It is
 ### Forest Sanctuary
 The Forest Sanctuary is located in Erdewald Forest, just south of Gaia Village and near the edge of Verbotenholz. This structure was once a bastion against Dolmordai’s forces during the War of Fallen Glory, but is now rather overgrown.
 
+
+### Embercradle Ruins
+Located in Fire Province, the Embercradle ruins are the remains of Embercradle Manor, the ancient dwarf lords lived in. The mansion was used for strategizing and was eventually attacked and nearly destroyed during the War of Fallen Glory. The manor was never repaired and left to ruin. Over the years, many monsters have made the ruins their home.
