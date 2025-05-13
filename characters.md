@@ -88,7 +88,8 @@ Elder of the dwarves. He doesn’t mince words. He’s blunt, honest, and has a 
 
 
 ## Merfolk
-Coren: Merfolk warrior who once swam far beyond the boundaries to scout enemy forces
+### Coren
+Merfolk warrior who once swam far beyond the boundaries to scout enemy forces
 
 ### Vasea
 An oracle who interprets the songs of the deep currents
