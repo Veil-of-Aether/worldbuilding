@@ -16,6 +16,9 @@ Darian’s grandmother. She is the heart of Gaia Village – or at least, that�
 ### Bernard
 He is a wandering salesman with a knack for finding the oddest trinkets in the unlikeliest places. Always on the move, he’s a bit skittish but endlessly curious, driven by a love of adventure and a tendency to laugh mid-sentence — even when there’s nothing funny. His playful spirit and ever-growing collection of bizarre wares make him a familiar (and unpredictable) face wherever the road leads.
 
+### General Halvarn
+Halvarn was the greatest general during the War of Fallen Glory. He fought alongside his men and never backed down from a battle. While under siege, he gave many of his rations to his soldiers. Halvarn was the one who pierced through the enemy defenses into the Shrine of Elements and blew the Horn of Awakening.
+
 ### Mira
 A kind-hearted herbalist who runs a small garden. She sometimes needs help gathering rare herbs from nearby woods
 
