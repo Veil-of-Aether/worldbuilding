@@ -4,7 +4,7 @@
 The Sword of the Elements is a mythical blade said to be created by the ancient gods. This sword bears the emblems of Wind, Water, Earth, and Fire on the for sections of the blade, and a mysterious fifth symbol on the center of the hilt. The sword rests in the Pedestal of Ages in the center of the Shrine of Elements, directly beneath the Spire of Equinox. If one with right intentions draws the blade, he gains power over all four elements; however if someone with evil intentions tries to draw it, the blade will shatter into four pieces and each will travel to its respective temple, leaving the one who drew it with only a hilt.
 
 ### Veil of Aether
-The Veil of Aether is not a physically obtainable item, but instead the life force that binds all things together. Without the Veil, life could not exist. Only one proven worthy may look upon the veil and receive the power of the Sacred Light. One who has passed the four sacred trials of the Light Dragons may enter the Sanctum of Light and view the Veil. The Veil is the only thing capable of imbuing a weapon with the Sacred Light.
+The Veil of Aether resides in the Sanctum of Light and holds back the power of the Sacred Light from reaching anyone unworthy. If one has proven himself worthy by passing the Sacred Trials, the Veil will lift and imbue his sword with the Sacred Light.
 
 ### Horn of Awakening
 The Horn of Awakening resides in the Shrine of Elements. Blowing this horn will awaken the four guardians from their temples if there is a great danger, but will explode with searing heat and curse the blower if there is no danger. The curse placed by the Horn will cause the victim to receive strange visions and develop extreme paranoia.
