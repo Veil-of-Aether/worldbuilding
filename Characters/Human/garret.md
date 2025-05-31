@@ -1,2 +1,4 @@
-### Garret
+# Garret
+### Darian's granfather, soldier, deceased
+
 The deceased grandfather of Darian. He was known throughout Gaia Village and beyond for his bold spirit. Never one to turn down a challenge, he chased legends and explored old forgotten ruins when others were too afraid. His sense of adventure made him a local hero to some, and a reckless fool to others. He had a quick smile, a hearty laugh, and an infectious energy that made people believe anything was possible. But once he set his mind on a goal, even good advice often slid right off him. His final journey into the Forest Sanctuary was meant to uncover a secret that could protect the village — but he underestimated the dangers within. Though he never returned, his story lives on in whispers and the proud hearts of those who knew him.

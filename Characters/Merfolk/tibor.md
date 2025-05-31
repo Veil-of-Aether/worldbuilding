@@ -1,2 +1,4 @@
 # Tibor
+### Elder of the merfolk
+
 Elder of the merfolk. He is serene and thoughtful, often speaking in calm, measured tones. His personality mirrors the flowing nature of the water, always moving forward but in a way that encourages reflection. As a Merfolk, Tibor has seen the vastness of the oceans and is always eager to learn from others. He believes in the importance of understanding all perspectives, which often leads him to seek valance between conflicting ideas. Despite his openness to new ideas, Tibor holds strong to the traditions of his people. He believes in the importance of preserving history and teaching younger generations of the value of their culture and the sea.

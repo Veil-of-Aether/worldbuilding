@@ -1,2 +1,4 @@
-### Evron
+# Evron
+### Elder of the elves
+
 Elder of the elves. He exudes a natural sense of elegance and dignity. His movements and speech are measured and refined, and he carries the weight of centuries of elven history on his shoulders. Evron is perceptive and thoughtful, often seeing the bigger picture. However, his long life has made him somewhat detached from the concerns of everyday people, preferring to think on a more philosophical or long-term scale. Though he values peace and understanding with other races, Evron is deeply protective of his own. He believes that the elves must maintain their unique culture and strength in a world where they are increasingly rare. With age comes a certain rigidity, and Evron can be stubborn when it comes to changes he feels threaten the well-being of his people. He can sometimes seem out of touch with newer ideas but is always open to conversation if presented with a strong argument.
