@@ -1,0 +1,2 @@
+# Forest Sanctuary
+The Forest Sanctuary is located in Erdewald Forest, just south of Gaia Village and near the edge of Verbotenholz. This structure was once a bastion against Dolmordai’s forces during the War of Fallen Glory, but is now rather overgrown.

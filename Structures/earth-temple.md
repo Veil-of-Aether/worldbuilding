@@ -1,0 +1,2 @@
+# Earth Temple
+The Earth Temple is located at the far south of the known land, on the southern edge of Earth Province. The temple features crude granite and sandstone architecture and many small corridors. Over time, vines have crept up the eroding walls, and many cracks have formed. Terra the Earth Wizard resides in a large chamber near the back of the temple.

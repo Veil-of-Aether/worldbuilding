@@ -1,0 +1,2 @@
+# Water Temple
+The Water Temple is a submerged in the Great Sea in eastern Water Province. The temple is full of underwater hallways and labyrinths, with some rooms protruding from out of the water. The temple is constructed from wet stone and glassy crystal. Aqua the Water Sorceress is in a large central chamber protruding out from the sea.

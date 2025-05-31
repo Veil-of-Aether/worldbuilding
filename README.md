@@ -48,7 +48,7 @@ Together, we can show that great games don't need ads, tracking, DRM, or a corpo
 
 ## Contributing
 
-First off, thanks for your interest in The Veil of Aether! Whether you're here to squash bugs, write dialogue, suggest features, or just share wild theories—we appreciate you.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how you can contribute to the project.
 
 ## Ways You Can Help
 There are lots of ways to contribute:

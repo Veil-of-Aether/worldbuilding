@@ -1,0 +1,2 @@
+# Blade of Halvarn
+The Blade of Halvarn after Darian’s ancestor Halvarn the Great, one of the best generals in the War of Fallen Glory. Halvarn weilded this dwarf-smithed sword against many a foe. Both Darian’s father and his grandfather once wielded this blade when they entered the Forest Sanctuary. Darian finds it in the Sanctuary shortly after entering.

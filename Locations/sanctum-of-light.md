@@ -1,0 +1,2 @@
+# Sanctum of Light
+Located in the Light Realm, the Sanctum of Light is the most sacred place in existence. Only those who have proven themselves worthy of wielding the Sacred Light may enter the Sanctum, all others will be immediately vaporized. In the center is a pool that glows with the Sacred Light and can cleanse any wound.

@@ -1,0 +1,2 @@
+# Tidepiercer
+Tidepiercer is a trident found in the Water Temple. It was once wielded by Aqua during the War of Fallen Glory. This trident contains power over water, allowing the wielder to be able to walk across water or create a bubble of air to breathe underwater, both for only a limited time.

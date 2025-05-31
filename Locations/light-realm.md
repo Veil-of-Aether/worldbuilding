@@ -1,0 +1,2 @@
+# Light Realm
+The Light Realm sits high above the clouds and serves as a home for the Light Dragons. The only way for a non-dragon to reach this realm is using the Spire of Equinox. The realm is full of the Sacred Light, and anyone who visit will temporarily radiate with light.

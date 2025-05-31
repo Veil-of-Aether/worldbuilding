@@ -1,0 +1,2 @@
+# Horn of Awakening
+The Horn of Awakening resides in the Shrine of Elements. Blowing this horn will awaken the four guardians from their temples if there is a great danger, but will explode with searing heat and curse the blower if there is no danger. The curse placed by the Horn will cause the victim to receive strange visions and develop extreme paranoia.

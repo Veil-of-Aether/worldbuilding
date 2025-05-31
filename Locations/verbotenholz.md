@@ -1,0 +1,2 @@
+# Verbotenholz
+Deep in the heart of Erdewald Forest, Verbotenholz  is home to some of the darkest magic in the land. After the War of Fallen Glory, Erste Sünde, the source of all dark magic, was sealed away deep in the forest. Over time, the dark magic leaked into the surrounding forest. Verbotenholz is always dark, and everything is covered in dark sludge. Strange spirits and grotesque beasts roam this area, and those who venture in seldom return.

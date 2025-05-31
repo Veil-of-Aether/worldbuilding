@@ -1,0 +1,2 @@
+# Fire Temple
+The Fire Temple is carved into the side of Mount Vulkareth in west Fire Province. It features flowing lava rivers and an architecture of obsidian and other igneous rocks. The temple has many large, open areas, often filled with lava pools. Ignis the Fire Mage lives in a high chamber near the center, elevated above the main floor.

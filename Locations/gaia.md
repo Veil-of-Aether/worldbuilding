@@ -1,0 +1,2 @@
+# Gaia Village
+Located in a large clearing near the north of Erdewald Forest, Gaia Village is the primary settlement of men. It is often said that this village is the most lively place in all of Neyvara.

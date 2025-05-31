@@ -1,0 +1,2 @@
+# Spire of Equinox
+The Spire of Equinox is a large pillar reaching into the heavens from the Shrine of Elements. It is held in place by four magical, glowing chains. The Spire is the only way to reach the Light Realm high above the world. One who wields the Sword of the Elements may raise it into the Spire to be magically transported up to the Light Realm.

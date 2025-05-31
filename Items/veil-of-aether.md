@@ -1,0 +1,2 @@
+# Veil of Aether
+The Veil of Aether resides in the Sanctum of Light and holds back the power of the Sacred Light from reaching anyone unworthy. If one has proven himself worthy by passing the Sacred Trials, the Veil will lift and imbue his sword with the Sacred Light.

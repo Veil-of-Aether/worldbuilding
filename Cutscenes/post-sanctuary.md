@@ -1,22 +1,3 @@
-# Cutscenes
-
-## [Opening cutscene]
-Darian is training swordfighting with Torric in the center of the village. Everyone in the village is watching.
-
-The player gains control and can take a tutorial with melee combat.
-
-Darian wooden sword splits in half as he misses his target and hits the fence hard. Torric tells Darian to go find a new weapon. 
-
-The player now regains control. He can explore the village, and will eventually find a sword on Torric’s front porch.
-
-After picking up the sword and starting to head back, Darian hears a scream. Someone from the village center comes running and tells Darian to come quickly.
-
-The player regains control again. He can’t go off the path towards the village center, and must just follow the main.
-
-As Darian arrives among the panicked villagers. He runs through the chaos to see Elowen being dragged away towards the forest by a vine attached to her foot. Torric tells Darian “You must get her before it’s too late!”
-
-The player gains control again and can follow Elowen to the Forest Sanctuary.
-
 ## [After Forest Sanctuary]
 Torric meets Darian outside the Forest Sanctuary. He explains Darian’s untold backstory. (this has a cutscene to go with it, showing the events)
 "Many years ago, this land was torn apart by a great war against the demon king. The Forest Sanctuary—yes, the very one you just braved—was our final refuge, the last stronghold that held back the tide of darkness. It’s not an exaggeration to say we owe our survival to it."
@@ -37,15 +18,4 @@ The hero’s grandmother says something. I’ll figure that out later.
 
 Torric tells Darian that he must head to the Shrine of Elements in the center of the world and blow the horn to awaken the guardians.
 
-The hero now gains free control and can explore freely.
-
-## [Upon picking up the horn]
-When the horn is blown, four beams of light come out of the top of the shrine, striking the centers of each temple. Nothing happens. The camera pans towards the shattered sword hilt, encouraging him to pick it up.
-
-The player now gains control of the player again. He is free to do whatever, but can only progress the story by picking up the sword hilt.
-
-When the sword hilt is picked up, the player sees a vision of the door to the Earth Temple is open.
-
-The player gains control.
-
-## [Entering the Earth Temple]
+*The hero now gains free control and can explore freely.*

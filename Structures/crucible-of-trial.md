@@ -1,0 +1,2 @@
+# Crucible of Trial
+The Crucible of Trial is a cave with many levels underneath the Shrine of Elements. The entrance is a hole right outside the Shrine. The Crucible contains 30 levels with monsters of increasing difficulty the farther down one goes, with an additional rest point every 5 levels. At the very bottom is a magic artifact that increases health and stamina capacity.

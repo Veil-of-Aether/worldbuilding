@@ -1,0 +1,2 @@
+# Wind Temple
+The Wind Temple is on a floating island in the far north of Wind Province. It is tall ornately designed out of smooth marble and a light, white wood. The interior is full of intricate carved inscriptions. The design features large rooms, often with large gaps leading to falls. Zephyr the Wind Enchantress takes residence in the open air at the top of the structure.

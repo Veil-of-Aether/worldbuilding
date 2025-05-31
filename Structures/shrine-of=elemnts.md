@@ -1,0 +1,2 @@
+# Shrine of Elements
+The Shrine of Elements lays in the exact center of the world, at the point where the four provinces meet. This shrine houses the Pedestal of Ages, the Horn of Awakening, and many other sacred artifacts. The inside of the shrine features marble architecture and a large dome. The Spire of Equinox hangs down into the center of the shrine, suspended by four magical chains.
