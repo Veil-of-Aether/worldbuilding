@@ -79,7 +79,7 @@ To maintain consistency across the repository, please follow these style guideli
 - **Documents**: We use Markdown for documents in this repository. If you don't know what that is, you can use [this guide](https://www.markdownguide.org/).
 - **File Organization**: Please put files into appropriate directories (e.g. Characters or Battles)
 - **Naming Files**: File names should be in all-lowercase [kebab-case](https://developer.mozilla.org/en-US/docs/Glossary/Kebab_case). The name should be the name of what it discusses, followed by the `.md` extension (e.g sword-of-elements.md).
-- **File Structure**: Each file should start with a header 1 title (e.g. \# Elymion), followed if necessary by function, purpose, or occupation with header 2 (e.g. \#\# Light Dragon Elder), and an optional title using header 3 and in quotes (e.g. \#\#\# "Radiant Wisdom"), then a longer description of what it is/does.
+- **File Structure**: Each file should start with a header 1 title (e.g. \# Elymion), followed if necessary by a title in quotes with header 2 (e.g. \#\# "Radiant Wisdom"), and the function, purpose, or occupation using header 3 (e.g. \#\#\# Elder of the Light Dragons), then a longer description of what it is/does.
 - **Commit Messages**: Use clear, descriptive commit messages. Start with a short summary of the change, followed by a detailed explanation if necessary.
   
 Example:
