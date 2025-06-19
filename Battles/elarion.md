@@ -1,0 +1,3 @@
+# Fall of Elarion Spire
+
+The elves in Elarion Spire studying the wind believed themselves to be untouchable by the war below. One grim morning though, the elves heard a beautiful but deceptive melody drifting through the wind. One by one, each elf started singing with this melody and went into a trance. It was here that Dolmordai sent flying beasts if the wind in. All of the defenseless elves were slaughtered, and the captain of the guard below ordered his men to cut the Spire from its supports, causing it to collapse into the chasm below. Elder Evron of the elves sent his message if peace and allied with the dwarves and men after this humiliating blow.
