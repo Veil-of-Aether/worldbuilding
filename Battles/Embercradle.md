@@ -1,0 +1,3 @@
+# Battle at Embercradle Manor
+
+The dwarf lords were meeting together in Embercradle Manor to discuss fighting Dolmordai when the shadow beaats emerged from under the manor. The guards were gone before they could utter a sound. The council continued on, with the lords unaware of what was happening. When they realized that shadow beasts had infiltrated, it was already too late. Elder Zimri I of the dwarves and his men attempted to fight long enough for as many as possible to escape, but in the end, only a few scribes made it out. By dawn, Embercradle Manor was reduced to ruins. This battle was what finally prompted the new elder, Zimri II, to send a message to the humans for an alliance.
