@@ -1,2 +1,5 @@
+# Embercradle Manor
+Located in Fire Province,Embercradle Manor was a place where ancient dwarf lords lived. The mansion often had war councils held in. During the War of Fallen Glory, Embercradle Manor was used to hold one of the most important councils, but was destroyed in the Battle at Embercradle Manor.
+
 # Embercradle Ruins
-Located in Fire Province, the Embercradle ruins are the remains of Embercradle Manor, the ancient dwarf lords lived in. The mansion was used for strategizing and was eventually attacked and nearly destroyed during the War of Fallen Glory. The manor was never repaired and left to ruin. Over the years, many monsters have made the ruins their home.
+After its destruction, the manor was never repaired and was left to ruin. It serves as an optional dungeon in gameplay and Monsters have made their home in the manor since its destruction, so caution is advised when visiting the ruins.
