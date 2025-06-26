@@ -1,0 +1,3 @@
+# Selene
+
+Selene is a young woman and the daughter of Elder Torric. She is an extreme introvert and rarely speaks to anyone, and she always has a completely blank expression, masking any emotion. Selene knows the patterns of humans - and other races for that matter - eerily well, to the point that she can predict with almost perfect accuracy what anyone will do. As such, she often strategizes for the raids that the *Shrouded Flame* execute. Her strategies are unorthodox but never fail. She is also extremely good with martial arts and daggers. She prefers delivering non-lethal blows when possible, but if not, she uses one or both of her hand-crafted daggers.
