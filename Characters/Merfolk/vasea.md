@@ -1,4 +1,4 @@
 # Vasea
 ### Oracle
 
-An oracle who interprets the songs of the deep currents
+Vasea is an oracle who interprets the currents of the water as songs
