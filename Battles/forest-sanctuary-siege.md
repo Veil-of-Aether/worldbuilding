@@ -1,0 +1,3 @@
+# Siege of the Forest Sanctuary
+
+Following the Stand at Weathercrest, Halvarn's men were forced to retreat to the Forest Sanctuary. Dolmordai's army surrounded the Sanctuary. On the second day of the siege, a young boy no older than 17 named Korrin slipped out to tell the remnent of remains humans of the siege. During the twenty-seven day siege, the men were only kept together by their general. Halvarn would give up his rations so his men could have more. He would talk to them one-on-one - not as a general, but as a brother. When a man tried to run away, Halvarn grabbed him before spending the rest of the night by his side.
