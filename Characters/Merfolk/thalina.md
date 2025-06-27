@@ -1,4 +1,4 @@
 # Thalina
 ### Coral Gardens caretaker
 
-Tender of the Coral Gardens, the source of many healing herbs and relics
+Thalina tends to the Coral Gardens, which provide many herbs and other such things. She keeps the gardens in order, takes care of dying plants, and more.
