@@ -1,0 +1,3 @@
+# Stand at Weathercrest
+
+When Dolmordai's armies invaded Earth Province, a commander named Halvarn took what men he could find and stood against the enemy at Weathercrest. When the enemy broke the line, Halvarn regrouped his men. Just as he thought Dolmordai might be defeated, another wave showed up. Halvarn knew that if he stayed, he and his men would all be dead, so he made a tactical retreat to the Forest Sanctuary.
