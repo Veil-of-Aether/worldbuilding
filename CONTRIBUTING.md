@@ -1,6 +1,6 @@
 # Contributing to *The Veil of Aether*
 
-Thank you for considering contributing to ***The Veil of Aether***! We welcome contributions from the community. By following these guidelines, you'll help ensure that contributions are smooth and beneficial for everyone involved.
+Thank you for your interest in contributing to the Veil of Aether! Please read the guidelines if you aren't yet familiar with them.
 
 ## Table of Contents
 - [Code of Conduct](#code-of-conduct)
@@ -23,7 +23,7 @@ We’re committed to creating a welcoming and respectful environment for everyon
 
 - Avoid personal attacks, harassment, and discriminatory language.
 
-see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for more details. By participating in this project, you agree to uphold these standards. Let's keep it friendly and collaborative.
+see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for more details. By participating in this project, you agree to uphold these standards.
 
 ---
 
@@ -53,7 +53,7 @@ Please note that this guide targets people less familiar with Git/GitHub and the
 1. **Fork** the repository
   - Click the button labeled "Fork" at the top right of the repository
   - Choose a name for your fork of the repository
-2. **Create a new branch** for your feature or bug fix:
+2. **Create a new branch** for your document or edit:
   - In your fork, click on "main" in the top left
   - Click "View all branches, then "New branch"
   - Choose a name that describes your contribution (e.g. "improveCharacters")
@@ -63,7 +63,7 @@ Please note that this guide targets people less familiar with Git/GitHub and the
 4. **Commit** your changes with a clear, descriptive message:
   - Once you're done editing, click "Commit changes"
   - Create a commit message that describes what you did
-7. **Create a pull request** to the main repository. Be sure to explain what your changes do and why they are necessary.
+5. **Create a pull request** to the main repository. Be sure to explain what your changes do and why they are necessary.
   - Back in your fork of the repository, click "Contribute" and then "Open pull request."
   - Write a descriptive summary of your changes
   - Click "Create pull requst"
