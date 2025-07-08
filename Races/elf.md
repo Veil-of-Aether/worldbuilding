@@ -3,6 +3,8 @@
 ## About
 Location: Wind Province
 Average life expectancy: 3000 years
+Average height: 6 ft.
+Distinguishing features: light, straight, thin hair; pale skin
 Guardian: Zephyr
 Current elder: Evron
 

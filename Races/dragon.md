@@ -3,6 +3,8 @@
 ## About
 Location: Light Realm
 Average life expectancy: ∞
+Average height: 20 ft.
+Distinguishing features: wings; serpent-like body; golden colored skin
 Elder: Elymion
 
 ## Description

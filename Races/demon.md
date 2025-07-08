@@ -4,7 +4,10 @@
 
 Location: Neyvara
 Average life expectancy: ∞
+Average height: ranges between 3 ft. to 8 ft.
+Distinguising features: asymmetrical body proportions; black or gray skin
 King: Dolmordai
+Significant leaders: Veyric
 
 ## Description
 
