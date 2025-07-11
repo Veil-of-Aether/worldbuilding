@@ -1,2 +1,0 @@
-# Sylrin’s Grace
-Sylrin’s Grace is an ancient elven bow. It has been wielded by many high ranking officers in elf history, and Evron himself fought with it during the War of Fallen Glory. This bow is named after the ancient elf craftsman Sylrin, and it was his final and greatest work.
