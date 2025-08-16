@@ -1,3 +1,3 @@
 # Cyclone Guard
 
-This elven group goes through extreme military training. As a result, they are the best of the best elf warriors. These elves learn great stealth, archery, melee combat, and several martial arts. Members of this grop wear special insignia and ate charged with guarding the elder, sacred artifacts and monuments, and officials. One elf in this group can easily take on 20 men in combat.
+This elven group goes through extreme military training. As a result, they are the best of the best elf warriors. These elves learn great stealth, archery, melee combat, and several martial arts. Members of this grop wear special insignia and ate charged with guarding the elder, sacred artifacts and monuments, and officials. Even the lowest ranking Cyclone Guard member outranks the highest regular military general, giving this group extreme power over other areas of the military.
