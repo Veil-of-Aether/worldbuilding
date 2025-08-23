@@ -31,7 +31,7 @@ see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for more details. By participating 
 
 #### Reporting Problems
 
-If you encounter a problem or inconsistency, please check the [issues](https://github.com/Veil-of-Aether/game-core/issues) to see if it has already been reported. If not, you can report it by opening a new issue.
+If you encounter a problem or inconsistency, please check the [issues](https://gitlab.com/veil-of-asether/worldbuilding/-/issues) to see if it has already been reported. If not, you can report it by opening a new issue.
 
 - Provide a **clear description** of the issue.
 - If applicable, explain how you would recommend it be fixed
@@ -48,27 +48,40 @@ We welcome suggestions for new plot points, sidequests, dialogues, characters an
 
 We are happy to accept direct contributions! Here's how to get started:
 
-Please note that this guide targets people less familiar with Git/GitHub and the command line
+Please note that this guide targets people less familiar with Git/GitLab and the command line
+
+If you have any questions or problems, feel free to contact a maintainer.
 
 1. **Fork** the repository
   - Click the button labeled "Fork" at the top right of the repository
-  - Choose a name for your fork of the repository
+  - Be sure to choose your username in the dropdown under "Project URL"
+  - Don't change anything else here unless you know what you're doing
+  - Click on "Fork project" at the bottom left
 2. **Create a new branch** for your document or edit:
-  - In your fork, click on "main" in the top left
-  - Click "View all branches, then "New branch"
+  - In your fork, click on "+" in the top right
+  - Click "New branch"
   - Choose a name that describes your contribution (e.g. "improveCharacters")
 3. **Make your changes**, following the style guide below.
-  - Either click a file you wish to edit and click the pencil icon on the top right, or select "Add file" > "Create new file"
+  - Adding a new file
+    - Click "+" in the top right, then "New file"
+  - Editing an existing file
+    - Navigate to the file you wish to edit, then click on it
+    - Click "Edit" on the top right, then "Edit single file"
   - Use the web editor to make your changes
 4. **Commit** your changes with a clear, descriptive message:
   - Once you're done editing, click "Commit changes"
   - Create a commit message that describes what you did
-5. **Create a pull request** to the main repository. Be sure to explain what your changes do and why they are necessary.
-  - Back in your fork of the repository, click "Contribute" and then "Open pull request."
-  - Write a descriptive summary of your changes
-  - Click "Create pull requst"
+5. **Create a merge request** to the main repository. Be sure to explain what your changes do and why they are necessary.
+  - Back in the main repository, click "Merge requests" in the sidebar
+  - Click "New merge request"
+  - Under "Source branch":
+    - Change the field that says "veil-of-aether/worldbuilding" to your fork
+    - Now make sure the second field has the name of the branch you created
+  - Click "Compare branches and continue"
+  - Create a title and description for your merge request
+  - Click "Create merge request" at the bottom of the page
 
-A maintainer will review your pull request
+A maintainer will review your merge request
 
 ---
 
