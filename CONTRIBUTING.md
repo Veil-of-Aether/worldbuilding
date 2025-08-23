@@ -58,8 +58,7 @@ If you have any questions or problems, feel free to contact a maintainer.
   - Don't change anything else here unless you know what you're doing
   - Click on "Fork project" at the bottom left
 2. **Create a new branch** for your document or edit:
-  - In your fork, click on "+" in the top right
-  - Click "New branch"
+  - In your fork, click on "+" > "New branch" in the top right
   - Choose a name that describes your contribution (e.g. "improveCharacters")
 3. **Make your changes**, following the style guide below.
   - Adding a new file
