@@ -63,10 +63,10 @@ If you have any questions or problems, feel free to contact a maintainer.
   - Choose a name that describes your contribution (e.g. "improveCharacters")
 3. **Make your changes**, following the style guide below.
   - Adding a new file
-    - Click "+" in the top right, then "New file"
+    - Click "+" > "New file" in the top right
   - Editing an existing file
     - Navigate to the file you wish to edit, then click on it
-    - Click "Edit" on the top right, then "Edit single file"
+    - Click "Edit" > "Edit single file" in the top right
   - Use the web editor to make your changes
 4. **Commit** your changes with a clear, descriptive message:
   - Once you're done editing, click "Commit changes"
