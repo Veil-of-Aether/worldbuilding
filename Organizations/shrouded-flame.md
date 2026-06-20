@@ -1,3 +1,12 @@
 # The Shrouded Flame
 
-The Shrouded Flame is a secret resistance group against Veyric. The group is led by Elder Torric. The members are Selene, Brumli, Kaledir, and Verstone. Nobody knows who the members of the group are, but everyone seems to know of its existence. The general public opinion of this group is mostly negative, as many people believe it will start another great war like the War of Fallen Glory, but many in the older generations respect the effort and know evil must not be allowed to rise unopposed. The Shrouded Flame is known for striking fast, striking hard, and vanishing. All the members wear completely black outfits, including masks, while attacking.
+### Description
+The Shrouded Flame exists to oppose Veyric. They operate in extreme secrecy as to their identities, but publicly leave their mark - a black flame icon - all over sites they raid and leave threats to their enemies. Their main targets are usually small enemy bases, which they raid, loot, and kill the occupants before leaving their mark behind. Many people want to support the Shrouded Flame, but they usually don't do it publicly for fear of being caught by Veyric's secret police.
+
+### Named Members
+- Torric
+- Selene
+- Ironheart
+- Kaledir
+- Vaelith
+- Darian
