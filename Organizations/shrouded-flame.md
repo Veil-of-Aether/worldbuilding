@@ -6,7 +6,7 @@ The Shrouded Flame exists to oppose Veyric. They operate in extreme secrecy as t
 ### Named Members
 - Torric
 - Selene
-- Ironheart
+- Brumli
 - Kaledir
 - Vaelith
 - Darian
