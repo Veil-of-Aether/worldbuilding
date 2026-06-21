@@ -1,4 +1,4 @@
 # Adric
 ### Retired scholar
 
-A serious young man training to be a scholar. Dreams of writing the definitive history of the land after the war, he hopes to travel the world.
+Adric is an old man who was a scholar in life. Now retired from his long life of work, he hopes to travel all throughout Neyvara and meet as many people of other races as he can.

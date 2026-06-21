@@ -1,4 +1,4 @@
 # Oswin
-### Retired knight
+### Retired soldier
 
-A retired knight who spends his days telling wildly exaggerated war stories to anyone who’ll listen, mostly kids who idolize him.
+Oswin used to be a soldier in the earthguard in his younger days, but now he's a very old man. He loves to tell his tall tales about his times when he supposedly slew dragons or great demon kings to whoever will listen, mostly children.

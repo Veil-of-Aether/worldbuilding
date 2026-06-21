@@ -1,4 +1,4 @@
 # Elda
 ### Darian's grandmother
 
-She is the heart of Gaia Village – or at least, that’s how many see her. She’s the kind of person who always has an extra loaf of bread ready, who never lets a traveler leave without a warm meal and a kind word. Time has made her strong in a quiet way. She's not afraid to cry, laugh, or mourn openly, believing emotions are not weaknesses but signs of true strength. Elda holds tightly to Garret’s memory, often telling stories of his adventures by the fireside. She encourages the protagonist to be brave – but also reminds them to be thoughtful, in a way she wishes Garret had been sometimes.
+Elda lives in Gaia and is the talkative type, always out and about chattering. She lives with her grandson, Darian, and he serves as a stark reminder of the tragedy that befell her son and daughter-in-law, as well as her husband, Garret. Despite this, she is cheerful and loves her grandson dearly.

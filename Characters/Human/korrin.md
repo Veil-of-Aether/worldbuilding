@@ -1,3 +1,3 @@
 # Korrin
 
-Korrin was a boy who slipped past Dolmordai's forces during the Siege of the Forest Sanctuary. He led the small band of humans into the Battle of the Breaking Dawn, and General Halvarn gave him a bow, now known as Korrin's Gift, after the battle. Korrin later halped Halvarn break into the Shrine of Elements to awaken the guardians during the Battle of the Plain.
+Korrin was a boy who slipped past Dolmordai's forces during the siege of the Forest Sanctuary. He alerted the human elder and was present as envoys arrived accepting the alliance, before marching to free the earthguard. Without Korrin, the War of Fallen Glory likely would have been lost.

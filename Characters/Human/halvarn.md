@@ -1,4 +1,4 @@
-# General Halvarn
-### War general, deceased
+# Halvarn
+### Supreme Commander, deceased
 
-Halvarn was the greatest general during the War of Fallen Glory. He fought alongside his men and never backed down from a battle. While under siege, he gave many of his rations to his soldiers. Halvarn was the one who pierced through the enemy defenses into the Shrine of Elements and blew the Horn of Awakening.
+Chief Commander Halvarn of the earthguard lived long ago during the War of Fallen Glory. He was known as an extremely cunning leader, but is also extremely humble and doesn't hesitate to fight with his men and give his rations for them. It was Halvarn that kept the entire earthguard alive while they were under siege near the beginning of the war, and he was later named as Supreme Commander of the allied forces. He gained a reputation as the best commander Neyvara had seen, and even personally awakened the guardians in the final battle. He later died of old age after a good long life, and long after the war ended.

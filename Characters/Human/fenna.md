@@ -1,4 +1,4 @@
 # Fenna
 ### Blacksmith
 
-A stern but fair blacksmith who mainly makes farming tools these days. Secretly wishes someone would ask her to forge a weapon again.
+Fenna is a blacksmith who lives in Gaia village. She mainly makes and repairs farm equipment for the locals, and everybody knows her well for her skills. Secretly, she hopes somebody around will need a sword or an axe forged again.

@@ -2,4 +2,4 @@
 ## "Disciple of the Void"
 ### Evil sorceror
 
-The power-hungry sorcerer once thought to be the true villain is a man driven by pride and a burning desire to master all four elements. Unlike Dolmordai’s cold calculation, Veyric is more impulsive—quick to act, quicker to anger, and dangerously reckless with the dark forces he commands. He dabbles in forbidden magic with little regard for consequence, believing power is worth any price. Though once human, his obsession has warped both his body and mind, leaving behind a brilliant but broken man who sees domination not as evil, but as destiny.
+Veyric was once a respected man in Gaia, as he was knowledgable about magic. This changed, however, when it was discovered that he was in the sacred Forest Sanctuary dabbling in dark magic and praying to the deceased demon king, Dolmordai. At the height of his power, Veyric had quietly subdued all of the guardians and had a sizeable army of demons, however he was never really the mastermind. He had unknowingly taken Dolmordai's soul into himself and became a puppet for the demon king to use as he attempted to come back to power.

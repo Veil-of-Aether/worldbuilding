@@ -1,4 +1,4 @@
 # Mira
 ### Herbalist
 
-A kind-hearted herbalist who runs a small garden. She sometimes needs help gathering rare herbs from nearby woods
+Mira owns a small herb garden and sells little things out of them. She often scolds the village children for running through her garden, but she's really a kind lady who loves to watch them.

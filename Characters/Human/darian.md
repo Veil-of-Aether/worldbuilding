@@ -1,4 +1,4 @@
 # Darian
-### Protagonist, hero
+### Hero
 
-Darian is the protagonist of the story—a young man whose personality reflects the player’s choices. He lives in Gaia Village with his kind grandmother Elda and trains in swordsmanship under Elder Torric’s guidance. Though still finding his place in the world, he shows promise and heart. His closest friend is Elowen, a cheerful girl with a love for singing, and though they’ve never said it aloud, their bond is obvious. Darian’s peaceful life is soon interrupted by a fate that calls him far beyond his quiet village.
+Darian is the official name of the game's protagonist. His personality and deeds depend on what the player does. Darian lives with his grandmother, Elda, as both of his parents and his grandfather passed tragically. Under his mentor, Elder Torric, Darian has grown quite proficient with swordsmanship and martial arts. His best friend is a girl named Elowen, a girl he's known since childhood. Though he refuses to confirm it, everybody knows that he thinks of Elowen as more than a friend.

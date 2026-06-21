@@ -1,4 +1,4 @@
 # Brother Caldwell
 ### Priest
 
-A gentle priest who maintains the village shrine but spends most of his time chasing birds out of it.
+Caldwell is a priest that manages a small shrine in between Gaia village and the Central Plain. He rarely gets visitors, and usually just spends his time chasing birds out of the shrine.

@@ -1,4 +1,4 @@
 # Jorren
 ### Wandering bard
 
-A wandering bard who sometimes stops in Gaia Village, playing a lute and singing ballads about “heroes of old.”
+Jorren is a bard who always wanders throughout villages in Earth Province, usually singing strange songs about old heroes and great, immortal beings.

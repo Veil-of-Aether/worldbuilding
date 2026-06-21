@@ -1,4 +1,4 @@
 # Lina and Thom
 ### Just two siblings
 
-Two kids always playing some new game, like playing knights and monsters with wooden swords or chasing each other endlessly around the village.
+Lina and Thom are two roudy siblings who run around Gaia village all day. They always have some new whimsical game, and they like to play around with Elowen, who is almost like a second mother to them.

@@ -1,4 +1,4 @@
 # Elowen
 ### Grandaughter of Bela
 
-She is a bright and kind-hearted girl around Darian’s age, known for her cheerful spirit and ever-present songs that seem to bring life to Gaia Village. Playful yet deeply loyal, she often helps others without hesitation, her sweet singing voice lifting the spirits of everyone around her. Though neither she nor Darian has ever admitted it aloud, their bond is obvious to all — a quiet, growing love marked by warm glances, easy laughter, and an unshakable loyalty to one another.
+Elowen is a cheerful and kind-hearted young woman. She loves to act as almost a mother figure for many of the village children and never misses a chance to joke around with someone. Her best friend is Darian, whom she's known since childhood, and most people thinks she has feelings for him. She'll never miss a chance to tease him about something or berate him for getting beat up while practicing swordsmanship with Torric.
