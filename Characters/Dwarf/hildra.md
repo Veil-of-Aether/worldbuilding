@@ -1,4 +1,4 @@
 # Hildra
 ### Tavern keeper
 
-Tavern keeper in the dwarven city, with sharp wit and a sharper rolling pin
+Hildra is a female tavern keeper in the dwarven capitol city of Embercradle. Her tavern is very popular with the locals, and she is just as fierce as the men.

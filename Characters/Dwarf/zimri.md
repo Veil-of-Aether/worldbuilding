@@ -1,4 +1,5 @@
-# Zimri
+# Zimri II
+## The Humble
 ### Elder of the dwarves.
 
-He doesn’t mince words. He’s blunt, honest, and has a very straightforward approach to most situations. His gruff exterior hides a deep loyalty to his people, and he has no time for pretense or unnecessary formalities. Zimri takes great pride in his people’s craftsmanship and strength. He often talks about the “old ways” of dwarven society, and he expects others to respect that. Though he can seem intimidating, Zimri has a soft spot for the young and those in need.He’s more than willing to lend a hand to those who prove themselves, though he’ll often disguise his kindness with sarcasm or tough-love remarks.
+Elder Zimri II was put in place as the elder of the dwarves when his father, Zimri I, was killed near the beginning of the War of Fallen Glory. He is often known as "Zimri the Humble," as he was the first person to actually accept the alliance proposed by Chief Commander Halvarn of the humans. He is often gruff and blunt when talking, but he is deeply loyal to his people. 
